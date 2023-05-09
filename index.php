@@ -5,7 +5,7 @@
 ?>
 
 <?php 
- $name = 'Egor';
+ $name = 'Dragon';
  $surname = 'XZ';
  $city = 'Rio';
  $age = 71;
